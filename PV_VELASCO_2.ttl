@@ -1,0 +1,20 @@
+#Inici de contingut de la Qüestió 2
+
+
+
+gpv_ont:dirigeix :dirigeix rdfs:domain :dirigeix rdfs:range
+
+rdf:type owl:ObjectProperty; gpv_ont:Persona;
+
+gpv_ont:Pellicula.
+
+
+
+
+Els objectes de la relació seràn del tipus director perquè és el rang.
+
+gpv_dades:Berlanti rdf:type gpv_ont:director
+
+
+
+#Final de contingut de la Qüestió 2
