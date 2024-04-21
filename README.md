@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susivelascoo
+- 👋🏽 Hi, I’m @susivelascoo
 - 🌱 I’m currently learning to be happy
 - 💞️ I’m looking to collaborate on teams that can provide me with knowledge and where I feel at home
 - 📫 You can reach me at susanavelcon@gmail.com
