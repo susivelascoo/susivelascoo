@@ -1,0 +1,23 @@
+#Inici de contingut de la QŸesti— 1 
+
+
+dbr:Agust’_Villaronga: 
+
+<http://dbpedia.org/resource/Agust’_Villaronga>; owl:SameAs <http://d-nb.info/gnd/124767311>. 
+
+dct:Subject
+
+<http://dbpedia.org/resource/Agust’_Villaronga>; dc:subject <http://dbpedia.org/ontology/Film_director>.
+
+
+dbo:abstract
+
+<http://dbpedia.org/resource/Agust’_Villaronga>; dbpedia:abstract "Agust’ Villaronga Riutort (Mallorca, 1953) es un director de cine, guionista y actor espa–ol."@es .
+
+
+
+dbo:wikiPageRevisionID
+
+<http://dbpedia.org/resource/Agust’_Villaronga>; dbpedia:wikiPageRevisionID "985795475"^^xsd:integer.
+
+#Final de contingut de la QŸesti— 1
